@@ -14,7 +14,7 @@
 # Program Studi Teknologi Rekayasa Perangkat Lunak (TRPL)
 ## Politeknik Negeri Batam
 
-![Logo Polibatam](https://www.polibatam.ac.id/wp-content/uploads/2020/01/Logo-Polibatam.png)
+[Logo Polibatam](https://www.polibatam.ac.id/wp-content/uploads/2020/01/Logo-Polibatam.png)
 
 Selamat datang di repositori resmi Program Studi Teknologi Rekayasa Perangkat Lunak (TRPL) Politeknik Negeri Batam. Repositori ini digunakan untuk mengelola berbagai proyek dan kolaborasi yang terkait dengan pengembangan perangkat lunak di lingkungan TRPL.
 
