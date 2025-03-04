@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.polibatam.ac.id" target="_blank"><img src="https://www.polibatam.ac.id/wp-content/uploads/2020/01/Logo-Polibatam.png" width="400" alt="Polibatam Logo"></a></p>
+<p align="center"><a href="https://www.polibatam.ac.id" target="_blank"><img src="https://www.polibatam.ac.id/wp-content/uploads/2021/09/logo.png" width="400" alt="Polibatam Logo"></a></p>
 
 # About TRPL - Politeknik Negeri Batam
 
