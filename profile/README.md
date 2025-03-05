@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.polibatam.ac.id" target="_blank"><img src="https://i.imgur.com/uaG9Thc.png" width="700" alt="Polibatam Logo"></a></p>
+<p align="center"><a href="https://if.polibatam.ac.id/teknologi-rekayasa-perangkat-lunak/" target="_blank"><img src="https://i.imgur.com/uaG9Thc.png" width="700" alt="Polibatam Logo"></a></p>
 
 # About TRPL - Politeknik Negeri Batam
 
